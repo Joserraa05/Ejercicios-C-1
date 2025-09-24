@@ -1,0 +1,7 @@
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\bin\Debug\L2-Ejercicio5.exe.config
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\bin\Debug\L2-Ejercicio5.exe
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\bin\Debug\L2-Ejercicio5.pdb
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\obj\Debug\L2-Ejercicio5.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\obj\Debug\L2-Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\obj\Debug\L2-Ejercicio5.exe
+C:\Users\alumno\source\repos\L2-Ejercicio5\L2-Ejercicio5\obj\Debug\L2-Ejercicio5.pdb

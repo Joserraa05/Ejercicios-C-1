@@ -1,0 +1,7 @@
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\bin\Debug\L2_Ejercicio3.exe.config
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\bin\Debug\L2_Ejercicio3.exe
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\bin\Debug\L2_Ejercicio3.pdb
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\obj\Debug\L2_Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\obj\Debug\L2_Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\obj\Debug\L2_Ejercicio3.exe
+C:\Users\alumno\source\repos\L2_Ejercicio3\L2_Ejercicio3\obj\Debug\L2_Ejercicio3.pdb
