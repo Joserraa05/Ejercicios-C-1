@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPF2_Ejercicio3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF2_Ejercicio3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock TextWrapping="WrapWithOverflow">Lorem Ipsum is simply dummy text of the printing <Span FontSize="21" Foreground="HotPink" FontWeight="Black">and typesetting 
+            industry.</Span> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a 
+            type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, <Span FontStyle="Italic" FontFamily="Calibri" TextDecorations=
+            "Baseline">remaining essentially unchanged.</Span> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently 
+            with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</TextBlock>
+    </Grid>
+</Window>

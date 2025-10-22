@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>WPF2_Ejercicio7</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="purepng.com-seat-car-logologocar-brand-logoscarsrenault-car-logo-1701527428859c1yej.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="purepng.com-seat-car-logologocar-brand-logoscarsrenault-car-logo-1701527428859c1yej.png" />
+  </ItemGroup>
+
+</Project>
