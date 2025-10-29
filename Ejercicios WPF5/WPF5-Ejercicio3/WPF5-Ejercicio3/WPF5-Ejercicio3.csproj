@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>WPF5_Ejercicio3</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="229-2296286_plankton-personaje-de-bob-esponja.png" />
+    <None Remove="283e06cff626cc3bf9716880460e6c05.jpg" />
+    <None Remove="6a087ba1d220918fccdcb2f7c29c9814.jpg" />
+    <None Remove="Patrick_Star_character.png" />
+    <None Remove="Sandy_stock_art.webp" />
+    <None Remove="SpongeBob_SquarePants_Mrs._Puff.webp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="229-2296286_plankton-personaje-de-bob-esponja.png" />
+    <Resource Include="283e06cff626cc3bf9716880460e6c05.jpg" />
+    <Resource Include="6a087ba1d220918fccdcb2f7c29c9814.jpg" />
+    <Resource Include="Patrick_Star_character.png" />
+  </ItemGroup>
+
+</Project>

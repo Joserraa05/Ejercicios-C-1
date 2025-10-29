@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WPF5-Ejercicio6-Pizarra/1.0.0": {
+        "runtime": {
+          "WPF5-Ejercicio6-Pizarra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF5-Ejercicio6-Pizarra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
