@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WPF4-Ejercicio1/1.0.0": {
+        "runtime": {
+          "WPF4-Ejercicio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF4-Ejercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
