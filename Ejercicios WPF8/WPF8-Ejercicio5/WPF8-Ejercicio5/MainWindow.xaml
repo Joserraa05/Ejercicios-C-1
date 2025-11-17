@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF8_Ejercicio5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF8_Ejercicio5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar>
+                    <Button Command="Cut" ToolTip="Corta el texto seleccionado">
+                        <Image Source="/Resources/1150823.png" Width="35"/>
+                    </Button>
+                    <Button Command="Copy" ToolTip="Copia el texto seleccionado">
+                        <Image Source="/Resources/9939877.png" Width="35"/>
+                    </Button>
+                    <Button Command="Paste" ToolTip="Pega el texto del portapapeles">
+                        <Image Source="/Resources/1168706.png" Width="35"/>
+                    </Button>
+                    <Separator/>
+                    <Button Click="Show" ToolTip="Muestra el texto seleccionado">
+                        <Image Source="/Resources/5116156.png" Width="35"/>
+                    </Button>
+                </ToolBar>
+            </ToolBarTray>
+            <TextBox Name="txt"/>
+        </DockPanel>
+    </Grid>
+</Window>

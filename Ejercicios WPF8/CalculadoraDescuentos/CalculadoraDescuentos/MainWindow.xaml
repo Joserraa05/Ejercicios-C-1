@@ -1,0 +1,22 @@
+﻿<Window x:Class="CalculadoraDescuentos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculadoraDescuentos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Precio del producto:"/>
+            <TextBox Name="Precio" Margin="5"/>
+            <Label Content="Seleccione un porcentaje de descuento:"/>
+            <RadioButton Name="diez" Content="10%" GroupName="desc" Margin="5"/>
+            <RadioButton Name="veinte" Content="20%" GroupName="desc" Margin="5"/>
+            <RadioButton Name="treinta"  Content="30%" GroupName="desc" Margin="5"/>
+            <RadioButton Name="cuarenta" Content="40%" GroupName="desc" Margin="5"/>
+            <RadioButton Name="cincuenta" Content="50%" GroupName="desc" Margin="5"/>
+            <Button Click="Calcular" Content="Calcular descuento" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

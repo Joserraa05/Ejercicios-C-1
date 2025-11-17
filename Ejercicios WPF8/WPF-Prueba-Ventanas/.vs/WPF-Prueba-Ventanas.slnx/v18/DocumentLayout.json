@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|c:\\users\\alumno\\source\\repos\\wpf-prueba-ventanas\\wpf-prueba-ventanas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|solutionrelative:wpf-prueba-ventanas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|c:\\users\\alumno\\source\\repos\\wpf-prueba-ventanas\\wpf-prueba-ventanas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|solutionrelative:wpf-prueba-ventanas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|c:\\users\\alumno\\source\\repos\\wpf-prueba-ventanas\\wpf-prueba-ventanas\\saludo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|solutionrelative:wpf-prueba-ventanas\\saludo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|c:\\users\\alumno\\source\\repos\\wpf-prueba-ventanas\\wpf-prueba-ventanas\\saludo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563A39C4-2379-D4CE-0353-4B797543F489}|WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas.csproj|solutionrelative:wpf-prueba-ventanas\\saludo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Saludo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\Saludo.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-Prueba-Ventanas\\Saludo.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\Saludo.xaml.cs",
+              "RelativeToolTip": "WPF-Prueba-Ventanas\\Saludo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:20:00.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Saludo.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\Saludo.xaml",
+              "RelativeDocumentMoniker": "WPF-Prueba-Ventanas\\Saludo.xaml",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\Saludo.xaml",
+              "RelativeToolTip": "WPF-Prueba-Ventanas\\Saludo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T12:16:54.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF-Prueba-Ventanas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\MainWindow.xaml",
+              "RelativeToolTip": "WPF-Prueba-Ventanas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T12:15:41.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF-Prueba-Ventanas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF-Prueba-Ventanas\\WPF-Prueba-Ventanas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF-Prueba-Ventanas\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:15:39.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
