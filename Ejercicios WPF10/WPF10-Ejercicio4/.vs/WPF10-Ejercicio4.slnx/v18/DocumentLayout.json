@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|c:\\users\\alumno\\source\\repos\\wpf10-ejercicio4\\wpf10-ejercicio4\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|solutionrelative:wpf10-ejercicio4\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|c:\\users\\alumno\\source\\repos\\wpf10-ejercicio4\\wpf10-ejercicio4\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|solutionrelative:wpf10-ejercicio4\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|c:\\users\\alumno\\source\\repos\\wpf10-ejercicio4\\wpf10-ejercicio4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|solutionrelative:wpf10-ejercicio4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|c:\\users\\alumno\\source\\repos\\wpf10-ejercicio4\\wpf10-ejercicio4\\texto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|solutionrelative:wpf10-ejercicio4\\texto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|c:\\users\\alumno\\source\\repos\\wpf10-ejercicio4\\wpf10-ejercicio4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|solutionrelative:wpf10-ejercicio4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|c:\\users\\alumno\\source\\repos\\wpf10-ejercicio4\\wpf10-ejercicio4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE9EA20-E720-4150-B4EA-BF30485D5A98}|WPF10-Ejercicio4\\WPF10-Ejercicio4.csproj|solutionrelative:wpf10-ejercicio4\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WPF10-Ejercicio4\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Login.xaml.cs",
+              "RelativeToolTip": "WPF10-Ejercicio4\\Login.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:25:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF10-Ejercicio4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\MainWindow.xaml",
+              "RelativeToolTip": "WPF10-Ejercicio4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T13:20:04.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Texto.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Texto.xaml",
+              "RelativeDocumentMoniker": "WPF10-Ejercicio4\\Texto.xaml",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Texto.xaml",
+              "RelativeToolTip": "WPF10-Ejercicio4\\Texto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T13:19:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Login.xaml",
+              "RelativeDocumentMoniker": "WPF10-Ejercicio4\\Login.xaml",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Login.xaml",
+              "RelativeToolTip": "WPF10-Ejercicio4\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T13:18:22.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Empleado.cs",
+              "RelativeDocumentMoniker": "WPF10-Ejercicio4\\Empleado.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\Empleado.cs",
+              "RelativeToolTip": "WPF10-Ejercicio4\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:59:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF10-Ejercicio4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\source\\repos\\WPF10-Ejercicio4\\WPF10-Ejercicio4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF10-Ejercicio4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:45:10.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

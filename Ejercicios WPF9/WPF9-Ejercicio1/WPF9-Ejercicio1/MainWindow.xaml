@@ -1,0 +1,38 @@
+﻿<Window x:Class="WPF9_Ejercicio1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF9_Ejercicio1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Margin="10" Grid.ColumnSpan="2" Name="Tareas" HorizontalContentAlignment="Stretch">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="5" Name="gridInterior">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding name}" VerticalAlignment="Center" Grid.Column="0"/>
+                        <ProgressBar Value="{Binding progress}" Width="120" Height="18" Grid.Column="1" HorizontalAlignment="Right"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Margin="10" Grid.Column="2">
+            <Label Margin="5" Content="ListBox selection" FontWeight="Bold"/>
+            <Button Margin="5" Content="Show selected" Click="showSelected"/>
+            <Button Margin="5" Content="Select last" Click="selectLast"/>
+            <Button Margin="5" Content="Select next" Click="selectNext"/>
+            <Button Margin="5" Content="Select C#" Click="selectC"/>
+            <Button Margin="5" Content="Select all" Click="selectAll"/>
+        </StackPanel>
+    </Grid>
+</Window>

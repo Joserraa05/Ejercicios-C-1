@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF10_Ejercicio4.Texto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF10_Ejercicio4"
+        mc:Ignorable="d"
+        Title="Texto" Height="200" Width="300">
+    <Grid>
+        <StackPanel>
+            <Label Content="Nombre del empleado:" Width="150" HorizontalContentAlignment="Center" FontFamily="Corbel" FontWeight="Bold"/>
+            <TextBox Name="Nombre" Width="270"/>
+            <Label Content="Salario del empleado:" Width="150" HorizontalContentAlignment="Center" FontFamily="Corbel" FontWeight="Bold"/>
+            <TextBox Name="Dinero" Width="270"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Click="Aceptar" Content="Aceptar" Height="30" Margin="10" Width="100"/>
+                <Button Click="Cancelar" Content="Cancelar" Height="30" Margin="10" Width="100"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
