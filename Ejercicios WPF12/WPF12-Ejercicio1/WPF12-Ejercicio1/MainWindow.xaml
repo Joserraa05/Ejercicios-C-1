@@ -1,0 +1,80 @@
+﻿<Window x:Class="WPF12_Ejercicio1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF12_Ejercicio1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl TabStripPlacement="Left" SelectionChanged="CambioPest">
+            <TabControl.Resources>
+                <Style TargetType="{x:Type TabItem}">
+                    <Setter Property="HeaderTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <ContentPresenter Content="{TemplateBinding Content}">
+                                    <ContentPresenter.LayoutTransform>
+                                        <RotateTransform Angle="90"></RotateTransform>
+                                    </ContentPresenter.LayoutTransform>
+                                </ContentPresenter>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TabControl.Resources>
+            <TabItem Height="120" Name="Tab1">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/estrella.png" Width="20"/>
+                        <Label Content="Valores" FontWeight="Bold"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid Margin=" 100">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Primer valor" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="10" FontSize="30"/>
+                    <Label Content="Segundo valor" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="10" FontSize="30"/>
+                    <TextBox Name="txtValor2" Grid.Column="1" Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="30"/>
+                    <TextBox Name="txtValor1" Grid.Row="1" Grid.Column="1" Width="200" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="30"/>
+                </Grid>
+            </TabItem>
+            <TabItem Height="120" Name="Tab2" >
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/tornillo.png" Width="20"/>
+                        <Label Content="Resultado" FontWeight="Bold"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <TextBox Margin="100" IsReadOnly="True" FontSize="50" Name="Resultado"/>
+            </TabItem>
+            <TabItem Height="120" Name="Tab3">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Resources/caja.png" Width="20"/>
+                        <Label Content="Imágenes" FontWeight="Bold"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid Margin=" 100">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Imágenes" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10" FontSize="30" Grid.ColumnSpan="2"/>
+                    <Image Source="/Resources/alba-valenti-fanboy-persp.jpg" Grid.Row="1"/>
+                    <Image Source="/Resources/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" Grid.Row="1" Grid.Column="1"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF12_Ejercicio2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF12_Ejercicio2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Conexión a la base de datos" Width="200" Height="50" FontWeight="Bold" Click="Connection"/>
+            <TextBox IsReadOnly="True" Name="ResConexion" TextAlignment="Center" Margin="10" Visibility="Hidden"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+            <Button Content="Mostrar datos" Width="200" Height="50" FontWeight="Bold" Click="Data"/>
+            <TextBox IsReadOnly="True" Name="ResConsulta" TextAlignment="Center" Margin="10" Visibility="Hidden"/>
+        </StackPanel>
+    </Grid>
+</Window>

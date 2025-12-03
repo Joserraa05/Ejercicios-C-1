@@ -1,0 +1,15 @@
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\bin\Debug\WPF12-Ejercicio1.exe.config
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\bin\Debug\WPF12-Ejercicio1.exe
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\bin\Debug\WPF12-Ejercicio1.pdb
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\App.g.cs
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1_MarkupCompile.cache
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1_MarkupCompile.lref
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\MainWindow.baml
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1.g.resources
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12_Ejercicio1.Properties.Resources.resources
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1.exe
+C:\Users\alumno\source\repos\WPF12-Ejercicio1\WPF12-Ejercicio1\obj\Debug\WPF12-Ejercicio1.pdb
